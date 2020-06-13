@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>66.jpg</filename>
+	<path>C:/Users/pol20/Desktop/Nike DataSet/images/66.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>283</width>
+		<height>178</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>51</ymin>
+			<xmax>175</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>
